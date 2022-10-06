@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/firebase-authorisation/static/css/main.c4c5fad8.css",
+    "main.js": "/firebase-authorisation/static/js/main.3f1c6e15.js",
+    "index.html": "/firebase-authorisation/index.html",
+    "main.c4c5fad8.css.map": "/firebase-authorisation/static/css/main.c4c5fad8.css.map",
+    "main.3f1c6e15.js.map": "/firebase-authorisation/static/js/main.3f1c6e15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4c5fad8.css",
+    "static/js/main.3f1c6e15.js"
+  ]
+}
